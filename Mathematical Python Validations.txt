@@ -1,7 +1,7 @@
 # Integrated Adelic Integration and Exceptional Lie Algebra Analysis
 # ================================================================
 
-# First, let's install the required packages
+# Install the required packages
 !pip install mpmath networkx scipy matplotlib
 
 # Import necessary libraries
@@ -265,7 +265,7 @@ class LieAlgebraAnalyzer:
         plt.show()
 
 # =============================================
-# Part 3: Integration of both systems
+# Part 3: Integration of both systems (Deformation/Consistency checks are all being computed against CLASSIC math)
 # =============================================
 
 class IntegratedMathSystem:
@@ -430,7 +430,7 @@ class IntegratedMathSystem:
 
 
 # =============================================
-# Main Execution Block
+# Main Execution Block  
 # =============================================
 
 if __name__ == "__main__":
