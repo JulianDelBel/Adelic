@@ -265,7 +265,7 @@ class LieAlgebraAnalyzer:
         plt.show()
 
 # =============================================
-# Part 3: Integration of both systems (Deformation/Consistency checks are all being computed against CLASSIC math)
+# Part 3: Integration of both systems
 # =============================================
 
 class IntegratedMathSystem:
