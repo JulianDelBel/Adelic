@@ -41,13 +41,35 @@ The resulting computed value ($\Lambda = 1.0$) confirms internal consistency and
 
 The system demonstrates that fundamental mathematical relationships can be expressed through dimensionless constructions derived solely from the natural structure of prime numbers and their relationships.
 
-## Publications and Resources
+## **Publications and Resources**
 
-- [Zenodo Record 14970879](https://zenodo.org/records/14970879)
-- [Zenodo Record 14969006](https://zenodo.org/records/14969006)
-- [Zenodo Record 14949122](https://zenodo.org/records/14949122)
-- [Zenodo Record 14994094](https://zenodo.org/records/14994094)
-- [Zenodo Record 14948910](https://zenodo.org/records/14948910)
-- [Discussion: Validation of Recursive Expansive Dynamics](https://ask.igwn.org/t/validation-of-recursive-expansive-dynamics-reds-cmb-gravitational-wave-echoes-and-galactic-rotation-curves/1170)
+**Zenodo Records:**
 
+* [Zenodo Record 14970879](https://zenodo.org/records/14970879)  
+* [Zenodo Record 14969006](https://zenodo.org/records/14969006)  
+* [Zenodo Record 14949122](https://zenodo.org/records/14949122)  
+* [Zenodo Record 14994094](https://zenodo.org/records/14994094)  
+* [Zenodo Record 14948910](https://zenodo.org/records/14948910)  
+* [Zenodo Record 15022520](https://zenodo.org/records/15022520)  
+* [Zenodo Record 15022735](https://zenodo.org/records/15022735)  
+* [Zenodo Record 15069399](https://zenodo.org/records/15069399)  
+* [Zenodo Record 15069479](https://zenodo.org/records/15069479)  
+* [Zenodo Record 15069572](https://zenodo.org/records/15069572)  
+* [Zenodo Record 15069438](https://zenodo.org/records/15069438)  
+* [Zenodo Record 15069590](https://zenodo.org/records/15069590)  
+* [Zenodo Record 15098044](https://zenodo.org/records/15098044)  
+* [Zenodo Record 15099081](https://zenodo.org/records/15099081)  
+* [Zenodo Record 15106995](https://zenodo.org/records/15106995)  
+* [Zenodo Record 15106886](https://zenodo.org/records/15106886)  
+* [Zenodo Record 15121962](https://zenodo.org/records/15121962)  
+* [Zenodo Record 15127270](https://zenodo.org/records/15127270)  
+* [Zenodo Record 15123307](https://zenodo.org/records/15123307)  
+* [Zenodo Record 15107264](https://zenodo.org/records/15107264)
 
+**Discussions:**
+
+* [Validation of Recursive Expansive Dynamics](https://ask.igwn.org/t/validation-of-recursive-expansive-dynamics-reds-cmb-gravitational-wave-echoes-and-galactic-rotation-curves/1170)
+
+**Computational Notebooks:**
+
+* [Exceptional Lie Algebra Analysis](https://colab.research.google.com/github/JulianDelBel/Adelic/blob/main/Exceptional_Lie_Algebra_Analysis.ipynb)
