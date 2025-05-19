@@ -184,7 +184,7 @@ Real root
 
 $$\eta$$ 
 
-overns cone expansion rate.
+governs cone expansion rate.
 
 
 
