@@ -1,0 +1,4 @@
+"Concept","Formula","Value"
+"Riemann zeta at s=1","ζ(1)=∑n=1∞1n→∞\zeta(1) = \sum_{n=1}^\infty \frac{1}{n} \to \inftyζ(1)=∑n=1∞n1→∞","Divergent"
+"Euler product formula","∏p11−p−1\prod_p \frac{1}{1 - p^{-1}}∏p1−p−11","Divergent"
+"RIFT normalization","∏p11−p−1⋅∥x∥R−1\prod_p \frac{1}{1 - p^{-1}} \cdot \|x\|_\mathbb{R}^{-1}∏p1−p−11⋅∥x∥R−1","14.07"

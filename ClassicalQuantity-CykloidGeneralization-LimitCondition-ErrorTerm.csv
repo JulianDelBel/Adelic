@@ -1,0 +1,7 @@
+"Classical Quantity","Cykloid Generalization","Limit Condition","Error Term"
+"Newtonian Potential","CNP-Modified Φ","r >> ℓ_Planck","O(ϕ−3ℓPlanck2r2)\mathcal{O}(\phi^{-3}\frac{\ell_{\text{Planck}}^2}{r^2})O(ϕ−3r2ℓPlanck2)"
+"Angular Momentum","Torsional Spin Θ^i","Δθ → 0","O(ϕ−1∥θ∥2)\mathcal{O}(\phi^{-1}\|\theta\|^2)O(ϕ−1∥θ∥2)"
+"Euler-Lagrange Eq","SUSY Algebra Closure","Δθ = 0","Exact"
+"Vector Potential","Čech Decomposition","γ = 0","∥γ∥<ϕ−3\|\gamma\| < \phi^{-3}∥γ∥<ϕ−3"
+"Mass Scaling","Prolation Law","d=4","δm/m=ϕ−6\delta m/m = \phi^{-6}δm/m=ϕ−6"
+"Kepler III Law","Hypocycloid Period","r >> ℓ_Planck","δT/T=ϕ3/2−1\delta T/T = \phi^{3/2}-1δT/T=ϕ3/2−1"

@@ -1,0 +1,4 @@
+"Challenge","Integration Pathway","Key Equations"
+"Eigenvalue Thermalization","Map CIT’s vortex feedback to ETH via Lyapunov analysis of RG flow[3][5].","λL∼τPlanck−1ln⁡ϕ−8\lambda_L \sim \tau_{\text{Planck}}^{-1} \ln\phi^{-8}λL∼τPlanck−1lnϕ−8"
+"Topological Protection","Compute Chern numbers for SUSY-preserving recursive geometries[1][4].","σxy=e2h∑Cn\sigma_{xy} = \frac{e^2}{h} \sum C_nσxy=he2∑Cn"
+"Observational Validation","Simulate CIT-modified waveforms using numerical relativity codes[2][5].","h(f)∝f−7/6sinc2(πfτ)h(f) \propto f^{-7/6} \text{sinc}^2(\pi f \tau)h(f)∝f−7/6sinc2(πfτ)"
