@@ -1,0 +1,7 @@
+Constant,Adelic_Framework,Reciprocals_Theory,Escherian_Mechanisms
+Tribonacci η/τ,1.839 (eigenvalue),1.839 (fractal scaling),1.839 (tribonacci attractor)
+Golden Ratio φ,1.618 (convergence),1.618 (recursive expansion),1.618 (golden spiral modulation)
+Feigenbaum δ,4.669 (spectral),Not primary,Not primary
+Hausdorff D_H,3 + log(φ) ≈ 3.481,ln(τ)/ln(b) ≈ 3.609,Stratified dimension
+Prime Limit,"p ≤ 282,281",No arbitrary limit,Coordinate boundaries
+Spectral Eigenvalue λ,0.002 ± 10^{-9},Eigenvergence rate,Expansion eigenrates

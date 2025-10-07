@@ -1,0 +1,7 @@
+Phenomenon,Predicted_Signature,Mathematical_Basis,Experimental_Test
+Gravitational Wave Echoes,Echo spacing t_n = t_0/η^n with η ≈ 1.839,Recursive kernel K_cyk with tribonacci scaling,LIGO/Virgo echo detection with η-spacing
+Cosmic Structure Formation,Dark matter ρ(r) ∼ r^{-(D_H-1)} ≈ r^{-2.481},Fractal dimension D_H in mass-radius relation,Galaxy cluster mass function analysis
+Quantum Measurement Anomalies,Interference at η-spaced frequencies,Non-Gaussian resonances from stratification,Quantum optics interference measurements
+Neural Correlates,EEG peaks at f_n = f_0 · η^n Hz,Hypocycloidal temporal kernel in neural binding,High-resolution EEG frequency analysis
+Dark Matter Profile,Density profile with exponent -2.481,Adelic number theory in gravitational dynamics,Dark matter simulations with fractal scaling
+CMB Anomalies,φ-modulated temperature fluctuations,Golden ratio modulation in inflationary dynamics,Planck satellite data anomaly correlation

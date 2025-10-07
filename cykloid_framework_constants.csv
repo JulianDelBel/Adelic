@@ -1,0 +1,8 @@
+Constant,Value,Mathematical_Definition,Role_in_Framework,Physical_Interpretation
+Tribonacci constant η,1.839286755214161,Real root of x³ - x² - x - 1 = 0,Recursive scaling factor in autocomplexifying architecture,Temporal folding rate in spacetime
+Golden ratio φ,1.618033988749895,"(1 + √5)/2, golden ratio",Self-similarity base in stratified geometry,Geometric scaling in fractal structures
+Fractal dimension D_H,3.281718171540955,3 + ln(φ) ≈ 3.281,Transcendental dimension parameter,Effective spacetime dimensionality
+Prime cutoff,83.0,Prime modulation cutoff p ≤ 83,Adelic prime product constraint,Quantum field cutoff scale
+Euler gamma function,0.5772156649015329,Euler-Mascheroni constant γ,Gamma function modulator in recursive terms,Renormalization group flow parameter
+Riemann zeta critical line,0.5,Riemann hypothesis critical line,Zeta function connection to number theory,Quantum gravity information bound
+Cycloidal scaling α,1.6406407834507646,Fractional derivative order α = D_H/2,Fractional calculus order in master equation,Memory kernel decay in field evolution
